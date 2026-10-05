@@ -11,8 +11,8 @@
                 Source="app_icon.png"
                 HeightRequest="185"
                 Aspect="AspectFit"
-                SemanticProperties.Description="dot net bot in a submarine number ten" />
-        <Entry Placeholder="Search for a game.."/>
+                SemanticProperties.Description="app logo" />
+        <Entry x:Name="SearchBox" Placeholder="Search for a game.."/>
         <Button
                     x:Name="SearchButton"
                     Text="Search" 

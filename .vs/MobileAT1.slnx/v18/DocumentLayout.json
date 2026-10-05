@@ -3,83 +3,87 @@
   "WorkspaceRootPath": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\helpers\\materialdesigniconsfonts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\helpers\\materialdesigniconsfonts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\models\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\models\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\models\\favourites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\models\\favourites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\favouritespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\favouritespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\browsepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\browsepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\browsepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\browsepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\favouritespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\favouritespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\services\\igdbapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\services\\igdbapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\browsepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\browsepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\models\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\models\\cover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\school\\AppData\\Local\\Temp\\.vsdbgsrc\\eb41a360323dd1274c001c6a16e4265a39b4a878e15826d9fe974c426bb64f59\\Views_FavouritesPage.xaml.xsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\favouritespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\favouritespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\browsepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\browsepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\models\\favourites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\models\\favourites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\views\\favouritespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\views\\favouritespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|solutionrelative:mobileat1\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\school\\AppData\\Local\\Temp\\.vsdbgsrc\\eb41a360323dd1274c001c6a16e4265a39b4a878e15826d9fe974c426bb64f59\\Views_FavouritesPage.xaml.xsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F305F40-6744-6288-5815-6A8CF64D79A3}|MobileAT1\\MobileAT1.csproj|c:\\users\\school\\source\\repos\\c sharp\\semester 2\\mobileat1\\mobileat1\\models\\gamemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,123 +105,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MaterialDesignIconsFonts.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Helpers\\MaterialDesignIconsFonts.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\Helpers\\MaterialDesignIconsFonts.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Helpers\\MaterialDesignIconsFonts.cs",
-              "RelativeToolTip": "MobileAT1\\Helpers\\MaterialDesignIconsFonts.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MainPage.xaml.cs",
+              "RelativeToolTip": "MobileAT1\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-05T12:12:14.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-19T05:51:07.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GamePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\GamePage.xaml.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\Views\\GamePage.xaml.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\GamePage.xaml.cs",
+              "RelativeToolTip": "MobileAT1\\Views\\GamePage.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T09:50:13.828Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BrowsePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\BrowsePage.xaml.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\Views\\BrowsePage.xaml.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\BrowsePage.xaml.cs",
-              "RelativeToolTip": "MobileAT1\\Views\\BrowsePage.xaml.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwDcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-19T07:36:50.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\AppShell.xaml",
-              "RelativeDocumentMoniker": "MobileAT1\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\AppShell.xaml",
-              "RelativeToolTip": "MobileAT1\\AppShell.xaml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Title": "GamePage.xaml",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\GamePage.xaml",
+              "RelativeDocumentMoniker": "MobileAT1\\Views\\GamePage.xaml",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\GamePage.xaml",
+              "RelativeToolTip": "MobileAT1\\Views\\GamePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-19T09:59:01.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-19T06:01:10.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\App.xaml.cs",
-              "RelativeToolTip": "MobileAT1\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:38:41.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Favourites.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Favourites.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\Models\\Favourites.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Favourites.cs",
-              "RelativeToolTip": "MobileAT1\\Models\\Favourites.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T11:45:57.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Genre.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Genre.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\Models\\Genre.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Genre.cs",
-              "RelativeToolTip": "MobileAT1\\Models\\Genre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-19T07:06:22.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IGDBApiService.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Services\\IGDBApiService.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\Services\\IGDBApiService.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Services\\IGDBApiService.cs",
-              "RelativeToolTip": "MobileAT1\\Services\\IGDBApiService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T04:23:18.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MauiProgram.cs",
-              "RelativeToolTip": "MobileAT1\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T12:06:07.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cover.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Cover.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\Models\\Cover.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Cover.cs",
-              "RelativeToolTip": "MobileAT1\\Models\\Cover.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T07:44:53.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "FavouritesPage.xaml",
               "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\FavouritesPage.xaml",
               "RelativeDocumentMoniker": "MobileAT1\\Views\\FavouritesPage.xaml",
@@ -229,31 +157,188 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GamePage.xaml",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\GamePage.xaml",
-              "RelativeDocumentMoniker": "MobileAT1\\Views\\GamePage.xaml",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\GamePage.xaml",
-              "RelativeToolTip": "MobileAT1\\Views\\GamePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-19T06:01:10.136Z"
+              "DocumentIndex": 3,
+              "Title": "BrowsePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\BrowsePage.xaml.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\Views\\BrowsePage.xaml.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\BrowsePage.xaml.cs",
+              "RelativeToolTip": "MobileAT1\\Views\\BrowsePage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T07:36:50.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "IGDBApiService.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Services\\IGDBApiService.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\Services\\IGDBApiService.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Services\\IGDBApiService.cs",
+              "RelativeToolTip": "MobileAT1\\Services\\IGDBApiService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T04:23:18.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Game.cs",
+              "RelativeToolTip": "MobileAT1\\Models\\Game.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T07:06:08.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\Views\\SearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\SearchPage.xaml.cs",
+              "RelativeToolTip": "MobileAT1\\Views\\SearchPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T13:29:56.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "MobileAT1\\Views\\SearchPage.xaml",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\SearchPage.xaml",
+              "RelativeToolTip": "MobileAT1\\Views\\SearchPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-05T13:28:23.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "BrowsePage.xaml",
               "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\BrowsePage.xaml",
               "RelativeDocumentMoniker": "MobileAT1\\Views\\BrowsePage.xaml",
               "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\BrowsePage.xaml",
               "RelativeToolTip": "MobileAT1\\Views\\BrowsePage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-09-19T05:59:49.654Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cover.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Cover.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\Models\\Cover.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Cover.cs",
+              "RelativeToolTip": "MobileAT1\\Models\\Cover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T07:44:53.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\AppShell.xaml.cs",
+              "RelativeToolTip": "MobileAT1\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T13:31:29.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\App.xaml.cs",
+              "RelativeToolTip": "MobileAT1\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:38:41.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\App.xaml",
+              "RelativeDocumentMoniker": "MobileAT1\\App.xaml",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\App.xaml",
+              "RelativeToolTip": "MobileAT1\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-28T11:38:27.495Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MobileAT1\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\AppShell.xaml",
+              "RelativeToolTip": "MobileAT1\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-19T09:59:01.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MobileAT1\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MainPage.xaml",
+              "RelativeToolTip": "MobileAT1\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-19T05:45:49.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Favourites.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Favourites.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\Models\\Favourites.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Favourites.cs",
+              "RelativeToolTip": "MobileAT1\\Models\\Favourites.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T11:45:57.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MauiProgram.cs",
+              "RelativeToolTip": "MobileAT1\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T12:06:07.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "MobileAT1\\Models\\Genre.cs",
+              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Genre.cs",
+              "RelativeToolTip": "MobileAT1\\Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T07:06:22.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "FavouritesPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\FavouritesPage.xaml.cs",
               "RelativeDocumentMoniker": "MobileAT1\\Views\\FavouritesPage.xaml.cs",
@@ -265,19 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GamePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\GamePage.xaml.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\Views\\GamePage.xaml.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\GamePage.xaml.cs",
-              "RelativeToolTip": "MobileAT1\\Views\\GamePage.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAawCoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-19T09:50:13.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Views_FavouritesPage.xaml.xsg.cs",
               "DocumentMoniker": "C:\\Users\\school\\AppData\\Local\\Temp\\.vsdbgsrc\\eb41a360323dd1274c001c6a16e4265a39b4a878e15826d9fe974c426bb64f59\\Views_FavouritesPage.xaml.xsg.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\eb41a360323dd1274c001c6a16e4265a39b4a878e15826d9fe974c426bb64f59\\Views_FavouritesPage.xaml.xsg.cs",
@@ -290,67 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Game.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\Models\\Game.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Game.cs",
-              "RelativeToolTip": "MobileAT1\\Models\\Game.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-19T07:06:08.964Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\App.xaml",
-              "RelativeDocumentMoniker": "MobileAT1\\App.xaml",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\App.xaml",
-              "RelativeToolTip": "MobileAT1\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-28T11:38:27.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\AppShell.xaml.cs",
-              "RelativeToolTip": "MobileAT1\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T13:31:29.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MobileAT1\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MainPage.xaml",
-              "RelativeToolTip": "MobileAT1\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-09-19T05:45:49.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MobileAT1\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MainPage.xaml.cs",
-              "RelativeToolTip": "MobileAT1\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-19T05:51:07.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Platform.cs",
               "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\Platform.cs",
               "RelativeDocumentMoniker": "MobileAT1\\Models\\Platform.cs",
@@ -362,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "GameMode.cs",
               "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Models\\GameMode.cs",
               "RelativeDocumentMoniker": "MobileAT1\\Models\\GameMode.cs",
@@ -374,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "SettingsPage.xaml",
               "DocumentMoniker": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\Views\\SettingsPage.xaml",
               "RelativeDocumentMoniker": "MobileAT1\\Views\\SettingsPage.xaml",

@@ -114,6 +114,16 @@ build_metadata.AdditionalFiles.NoWarn =
 build_metadata.AdditionalFiles.EnableDiagnostics = 
 build_metadata.AdditionalFiles.LineInfo = 
 
+[C:/Users/school/source/repos/C sharp/Semester 2/MobileAT1/MobileAT1/Views/SearchPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MobileAT1.Views.SearchPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\SearchPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\SearchPage.xaml
+build_metadata.AdditionalFiles.Inflator = SourceGen
+build_metadata.AdditionalFiles.NoWarn = 
+build_metadata.AdditionalFiles.EnableDiagnostics = 
+build_metadata.AdditionalFiles.LineInfo = 
+
 [C:/Users/school/source/repos/C sharp/Semester 2/MobileAT1/MobileAT1/Views/SettingsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MobileAT1.Views.SettingsPage.xaml

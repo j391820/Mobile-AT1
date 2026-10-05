@@ -49,6 +49,26 @@ namespace MobileAT1.Services
             return games;
         }
 
+        public async Task<List<Game>> SearchGame(string name)
+        {
+            List<Game> games = [];
+            string requestURL = "https://api.igdb.com/v4/games";
+            HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Post, requestURL);
+            request.Headers.Add("Client-ID", "wvfmte3qi2sg46n53xesd5nvzb3jxu");
+            request.Headers.Add("Authorization", "Bearer g1ztgtew6a0w56ie3xmcxhnp73de3s");
+            request.Content = new StringContent($"""fields name, cover.url; where name = "{name}";""");
+            HttpResponseMessage response = await _client.SendAsync(request);
+            if (!response.IsSuccessStatusCode)
+            {
+                throw new HttpRequestException($"Server Responded: {response.StatusCode}");
+            }
+
+            string contentString = await response.Content.ReadAsStringAsync();
+            games = JsonConvert.DeserializeObject<List<Game>>(contentString) ?? [];
+
+            return games;
+        }
+
         public async Task<List<Game>> GetGamesByGenre(string genre)
         {
             List<Game> games = [];
