@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             x:Class="MobileAT1.Views.GamePage"
+             Title="GamePage"
+             Loaded="OnPageLoaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ImageButton x:Name="CloseButton" Source="close_circle.png"  Grid.Row="0" Grid.Column="0" HorizontalOptions="Start"  Margin="10" Clicked="CloseButton_Clicked"/>
+        <Image Source="{Binding Cover.ImageUrl}" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" WidthRequest="300" HeightRequest="200"/>
+        <Label Text="{Binding Title}" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" HorizontalOptions="Center"/>
+        <VerticalStackLayout Grid.Row="3" Grid.Column="0">
+            <Border Padding="10">
+                <Label Text="{Binding GenreDisplay}" />
+            </Border>
+            <Border Padding="10">
+                <Label Text="{Binding GameModeDisplay}"/>
+            </Border>
+            <Border Padding="10">
+                <Label Text="{Binding PlatformDisplay}"/>
+            </Border>
+        </VerticalStackLayout>
+        <Border Grid.Row="3" Grid.Column="1" >
+            <ScrollView>
+                <Label Text="{Binding Synopsis}" />
+            </ScrollView>
+        </Border>
+        <ImageButton x:Name="FavouriteButton" Source="{Binding Icon}"  Grid.Row="4" Grid.Column="0" Margin="10" Clicked="FavouriteButton_Clicked"/>
+        <Button x:Name="PriceButton" Text="{Binding Price, StringFormat='${0}'}" Grid.Row="4" Grid.Column="1" Margin="10" Clicked="PriceButton_Clicked" />
+    </Grid>
+</ContentPage>

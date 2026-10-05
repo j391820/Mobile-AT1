@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MobileAT1.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:mi="http://www.aathifmahir.com/dotnet/2022/maui/icons"
+    xmlns:local="clr-namespace:MobileAT1"
+    xmlns:helpers="clr-namespace:MobileAT1.Helpers"
+    xmlns:views="clr-namespace:MobileAT1.Views"
+    Title="MobileAT1">
+
+    <TabBar>
+        <Tab Title="Home">
+            <Tab.Icon>
+                <FontImageSource
+                    FontFamily="MaterialSymbolsRounded"
+                    Glyph="{x:Static helpers:MaterialDesignIconsFonts.Home}" />
+            </Tab.Icon>
+            <ShellContent
+            Title="Home"
+            ContentTemplate="{DataTemplate local:MainPage}"
+            Route="MainPage" />
+        </Tab>
+        <Tab Title="Browse">
+            <Tab.Icon>
+                <FontImageSource
+                    FontFamily="MaterialSymbolsRounded"
+                    Glyph="{x:Static helpers:MaterialDesignIconsFonts.Search}" />
+            </Tab.Icon>
+            <ShellContent
+            Title="Browse"
+            ContentTemplate="{DataTemplate views:BrowsePage}"
+            Route="BrowsePage" />
+        </Tab>
+        <Tab Title="Favourites">
+            <Tab.Icon>
+                <FontImageSource
+                    FontFamily="MaterialSymbolsRounded"
+                    Glyph="{x:Static helpers:MaterialDesignIconsFonts.Favorite}" />
+            </Tab.Icon>
+            <ShellContent
+            Title="Favourites"
+            ContentTemplate="{DataTemplate views:FavouritesPage}"
+            Route="FavouritesPage" />
+        </Tab>
+        <Tab Title="Settings">
+            <Tab.Icon>
+                <FontImageSource
+                    FontFamily="MaterialSymbolsRounded"
+                    Glyph="{x:Static helpers:MaterialDesignIconsFonts.Settings}" />
+            </Tab.Icon>
+            <ShellContent
+            Title="Settings"
+            ContentTemplate="{DataTemplate views:SettingsPage}"
+            Route="SettingsPage" />
+        </Tab>
+    </TabBar>
+</Shell>
