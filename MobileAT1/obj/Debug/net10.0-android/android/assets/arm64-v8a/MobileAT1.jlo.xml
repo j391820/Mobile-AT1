@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc6400258793ea6c53df" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="MobileAT1.MainActivity, MobileAT1">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc6400258793ea6c53df" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="MobileAT1.MainApplication, MobileAT1" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="MobileAT1" module-name="MobileAT1.dll">
+    <type assembly-qualified-name="MobileAT1.MainActivity, MobileAT1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="mobileat1.MainActivity" java-key="crc6400258793ea6c53df.MainActivity" managed-key="MobileAT1.MainActivity" partial-assembly-qualified-name="MobileAT1.MainActivity, MobileAT1" />
+    <type assembly-qualified-name="MobileAT1.MainApplication, MobileAT1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="mobileat1.MainApplication" java-key="crc6400258793ea6c53df.MainApplication" managed-key="MobileAT1.MainApplication" partial-assembly-qualified-name="MobileAT1.MainApplication, MobileAT1" />
+  </acw-types>
+</api>

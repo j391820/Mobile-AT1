@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MobileAT1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+51fe7fa1e1b39ad8814f81fb2646ec81c682bdd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MobileAT1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MobileAT1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

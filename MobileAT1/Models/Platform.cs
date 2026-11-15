@@ -5,6 +5,7 @@ using System.Text;
 
 namespace MobileAT1.Models
 {
+    // Represents a game platform such as pc, snes. 
     public class Platform
     {
         [JsonProperty("name")]

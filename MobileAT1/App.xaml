@@ -9,6 +9,9 @@
                 <ResourceDictionary Source="Resources/Styles/Colors.xaml" />
                 <ResourceDictionary Source="Resources/Styles/Styles.xaml" />
             </ResourceDictionary.MergedDictionaries>
+            <x:Double x:Key="FontSizeHeader"></x:Double>
+            <x:Double x:Key="FontSizeBody"></x:Double>
+            <x:Double x:Key="FontSizeSmall"></x:Double>
         </ResourceDictionary>
     </Application.Resources>
 </Application>

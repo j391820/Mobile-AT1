@@ -4,21 +4,32 @@
              x:Class="MobileAT1.Views.SearchPage"
              Title="SearchPage"
              Loaded="OnPageLoaded">
-    <ScrollView>
-        <VerticalStackLayout>
-            <ImageButton x:Name="CloseButton" Source="close_circle.png" Clicked="CloseButton_Clicked"/>
-            <CollectionView x:Name="CollectionViewGames" SelectionChanged="CollectionViewGames_SelectionChanged" SelectionMode="Single">
-                <CollectionView.ItemTemplate>
-                    <DataTemplate>
-                        <Border Margin="10" x:Name="Game">
-                            <VerticalStackLayout Margin="5" Padding="5">
-                                <Image Source="{Binding Cover.ImageUrl}" WidthRequest="300" HeightRequest="200"/>
-                                <Label Text="{Binding Title}" HorizontalOptions="Center" BackgroundColor="#00000080"/>
-                            </VerticalStackLayout>
-                        </Border>
-                    </DataTemplate>
-                </CollectionView.ItemTemplate>
-            </CollectionView>
-        </VerticalStackLayout>
-    </ScrollView>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <ImageButton x:Name="CloseButton" Source="close_circle.png" Grid.Row="0" Grid.Column="0" HorizontalOptions="Start" Clicked="CloseButton_Clicked"/>
+        <CollectionView x:Name="CollectionViewGames" Grid.Row="1" Grid.Column="0" SelectionChanged="CollectionViewGames_SelectionChanged" SelectionMode="Single">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Border Margin="10" x:Name="Game">
+                        <VerticalStackLayout Margin="5" Padding="5">
+                            <Image Source="{Binding Cover.ImageUrl}" WidthRequest="300" HeightRequest="200"/>
+                            <Label Text="{Binding Title}" HorizontalOptions="Center" BackgroundColor="#00000080"/>
+                        </VerticalStackLayout>
+                    </Border>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+            <CollectionView.EmptyView>
+                <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="30">
+                    <Label Text="No games found" FontSize="18" FontAttributes="Bold" HorizontalOptions="Center"/>
+                    <Label Text="Try searching for a different title." TextColor="Gray" HorizontalOptions="Center"/>
+                </StackLayout>
+            </CollectionView.EmptyView>
+        </CollectionView>
+    </Grid>
 </ContentPage>

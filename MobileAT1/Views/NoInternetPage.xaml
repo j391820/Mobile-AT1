@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:helpers="clr-namespace:MobileAT1.Helpers"
+             x:Class="MobileAT1.Views.NoInternetPage"
+             Title="NoInternetPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ImageButton x:Name="CloseButton" Source="close_circle.png" Grid.Row="0" HorizontalOptions="Start" Clicked="CloseButton_Clicked"/>
+        <VerticalStackLayout Grid.Row="1" VerticalOptions="Center" HorizontalOptions="Center" Padding="30">
+            <Label Text="{x:Static helpers:MaterialDesignIconsFonts.Signal_wifi_bad}" FontFamily="MaterialSymbolsRounded" FontSize="48" FontAttributes="Bold" HorizontalOptions="Center"/>
+            <Label Text="Oh no!" FontSize="18" FontAttributes="Bold" HorizontalOptions="Center"/>
+            <Label Text="You appear to be offline." TextColor="Gray" HorizontalOptions="Center"/>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>

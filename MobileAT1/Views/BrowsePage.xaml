@@ -4,23 +4,21 @@
              x:Class="MobileAT1.Views.BrowsePage"
              Title="BrowsePage"
              Loaded="OnPageLoaded">
-    <ScrollView>
-        <VerticalStackLayout>
-            <Picker x:Name="GenrePicker" Focused="GenrePicker_Focused" SelectedIndexChanged="GenrePicker_SelectedIndexChanged"
+    <Grid RowDefinitions="Auto, *">
+        <Picker x:Name="GenrePicker" Grid.Row="0" SelectedIndexChanged="GenrePicker_SelectedIndexChanged"
             Title="Genre" ItemDisplayBinding="{Binding Name}">
             </Picker>
-            <CollectionView x:Name="CollectionViewGames" SelectionChanged="CollectionViewGames_SelectionChanged" SelectionMode="Single">
+        <CollectionView x:Name="CollectionViewGames" Grid.Row="1" SelectionChanged="CollectionViewGames_SelectionChanged" SelectionMode="Single" RemainingItemsThreshold="5" ItemsUpdatingScrollMode="KeepScrollOffset" RemainingItemsThresholdReached="CollectionViewGames_RemainingItemsThresholdReached" >
                 <CollectionView.ItemTemplate>
                     <DataTemplate>
                         <Border Margin="10" x:Name="Game">
                             <VerticalStackLayout Margin="5" Padding="5">
-                                <Image Source="{Binding Cover.ImageUrl}" WidthRequest="300" HeightRequest="200"/>
-                                <Label Text="{Binding Title}" HorizontalOptions="Center" BackgroundColor="#00000080"/>
+                            <Image Source="{Binding CoverImageUrl}" WidthRequest="300" HeightRequest="200" Margin="0,0,0,10"/>
+                            <Label Text="{Binding Title}" HorizontalOptions="Center" BackgroundColor="#00000080" FontSize="{DynamicResource FontSizeBody}"/>
                             </VerticalStackLayout>
                         </Border>
                     </DataTemplate>
                 </CollectionView.ItemTemplate>
             </CollectionView>
-        </VerticalStackLayout>
-    </ScrollView>
+    </Grid>
 </ContentPage>

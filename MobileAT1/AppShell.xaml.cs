@@ -9,6 +9,7 @@ namespace MobileAT1
             InitializeComponent();
             Routing.RegisterRoute("gamepage", typeof(GamePage));
             Routing.RegisterRoute("searchpage", typeof(SearchPage));
+            Routing.RegisterRoute("nointernetpage", typeof(NoInternetPage));
         }
     }
 }

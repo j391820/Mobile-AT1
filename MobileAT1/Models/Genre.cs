@@ -5,6 +5,7 @@ using System.Text;
 
 namespace MobileAT1.Models
 {
+    // Represents a game genre such as shooter, rpg.
     public class Genre
     {
         [JsonProperty("name")]

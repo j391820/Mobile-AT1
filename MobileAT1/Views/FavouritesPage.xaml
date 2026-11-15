@@ -2,15 +2,16 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MobileAT1.Views.FavouritesPage"
-             Title="FavouritesPage">
+             Title="FavouritesPage"
+             Loaded="OnPageLoaded">
     <ScrollView>
         <CollectionView x:Name="CollectionViewGames" SelectionChanged="CollectionViewGames_SelectionChanged" SelectionMode="Single">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
                     <Border Margin="10">
                         <VerticalStackLayout Margin="5" Padding="5">
-                            <Image Source="{Binding Cover.ImageUrl}" WidthRequest="300" HeightRequest="200"/>
-                            <Label Text="{Binding Title}" HorizontalOptions="Center" BackgroundColor="#00000080"/>
+                            <Image Source="{Binding Cover.ImageUrl}" WidthRequest="300" HeightRequest="200" Margin="0,0,0,10"/>
+                            <Label Text="{Binding Title}" HorizontalOptions="Center" BackgroundColor="#00000080" FontSize="{DynamicResource FontSizeBody}"/>
                         </VerticalStackLayout>
                     </Border>
                 </DataTemplate>

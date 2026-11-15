@@ -1,42 +1,94 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
              x:Class="MobileAT1.Views.GamePage"
              Title="GamePage"
              Loaded="OnPageLoaded">
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="0.5*"/>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="0.2*"/>
-            <RowDefinition Height="*"/>
-            <RowDefinition Height="0.2*"/>
-        </Grid.RowDefinitions>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="*"/>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Grid" x:Key="GridLayoutStyle">
+                <Setter Property="VisualStateManager.VisualStateGroups">
+                    <VisualStateGroupList>
+                        <VisualStateGroup>
+                            <VisualState x:Name="Portrait">
+                                <VisualState.StateTriggers>
+                                    <OrientationStateTrigger Orientation="Portrait" />
+                                </VisualState.StateTriggers>
+                            </VisualState>
+                            <VisualState x:Name="Landscape">
+                                <VisualState.StateTriggers>
+                                    <OrientationStateTrigger Orientation="Landscape" />
+                                </VisualState.StateTriggers>
+                                <VisualState.Setters>
+                                    <!--Change rows and columns-->
+                                    <Setter Property="RowDefinitions" Value="Auto, *, Auto, 0.1*, 0.1*" />
+                                    <Setter Property="ColumnDefinitions" Value="*, *, *" />                                    
+                                    <!--Cover-->
+                                    <Setter TargetName="GameCoverImage" Property="Grid.Row" Value="1" />
+                                    <Setter TargetName="GameCoverImage" Property="Grid.Column" Value="0" />
+                                    <Setter TargetName="GameCoverImage" Property="Grid.ColumnSpan" Value="1" />
+                                    <Setter TargetName="GameCoverImage" Property="WidthRequest" Value="208" />
+                                    <Setter TargetName="GameCoverImage" Property="HeightRequest" Value="150" />
+                                    <!--Title-->
+                                    <Setter TargetName="GameTitle" Property="Grid.Row" Value="0" />
+                                    <Setter TargetName="GameTitle" Property="Grid.Column" Value="1" />
+                                    <Setter TargetName="GameTitle" Property="Grid.ColumnSpan" Value="1" />
+                                    <!--Game Info-->
+                                    <Setter TargetName="GameInfoStack" Property="Grid.Row" Value="1" />
+                                    <Setter TargetName="GameInfoStack" Property="Grid.Column" Value="1" />
+                                    <!--Synopsis-->
+                                    <Setter TargetName="SynopsisBox" Property="Grid.Row" Value="1" />
+                                    <Setter TargetName="SynopsisBox" Property="Grid.Column" Value="2" />
+                                    <!--Buttons-->
+                                    <Setter TargetName="ButtonStack" Property="Grid.Row" Value="2" />
+                                    <Setter TargetName="ButtonStack" Property="Grid.ColumnSpan" Value="3" />
+                                    <Setter TargetName="ButtonStack" Property="FlexLayout.JustifyContent" Value="End" />
+                                </VisualState.Setters>
+                            </VisualState>
+                        </VisualStateGroup>
+                    </VisualStateGroupList>
+                </Setter>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <Grid Style="{StaticResource GridLayoutStyle}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.5*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="0.2*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="0.3*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="0.1*"/>
         </Grid.ColumnDefinitions>
-        <ImageButton x:Name="CloseButton" Source="close_circle.png"  Grid.Row="0" Grid.Column="0" HorizontalOptions="Start"  Margin="10" Clicked="CloseButton_Clicked"/>
-        <Image Source="{Binding Cover.ImageUrl}" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" WidthRequest="300" HeightRequest="200"/>
-        <Label Text="{Binding Title}" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" HorizontalOptions="Center"/>
-        <VerticalStackLayout Grid.Row="3" Grid.Column="0">
-            <Border Padding="10">
-                <Label Text="{Binding GenreDisplay}" />
+            <HorizontalStackLayout Grid.Row="0" Grid.Column="0" HorizontalOptions="Start">
+                <ImageButton x:Name="CloseButton" Source="close_circle.png" Margin="10" Clicked="CloseButton_Clicked"/>
+                <ActivityIndicator x:Name="MySpinner" IsRunning="False" IsVisible="False" Color="Orange" />
+            </HorizontalStackLayout>
+            <Image x:Name="GameCoverImage" Source="{Binding Cover.ImageUrl}" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Aspect="AspectFit" WidthRequest="300" HeightRequest="200" Margin="0,0,0,20"/>
+        <Label x:Name="GameTitle" Text="{Binding Title}" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" HorizontalOptions="Center" FontSize="{DynamicResource FontSizeHeader}"/>
+        <VerticalStackLayout x:Name="GameInfoStack" Grid.Row="3" Grid.Column="0">
+                <Border Padding="10">
+                    <Label Text="{Binding GenreDisplay}" FontSize="{DynamicResource FontSizeSmall}"/>
+                </Border>
+                <Border Padding="10">
+                    <Label Text="{Binding GameModeDisplay}" FontSize="{DynamicResource FontSizeSmall}"/>
+                </Border>
+                <Border Padding="10">
+                    <Label Text="{Binding PlatformDisplay}" FontSize="{DynamicResource FontSizeSmall}"/>
+                </Border>
+            </VerticalStackLayout>
+            <Border x:Name="SynopsisBox" Grid.Row="3" Grid.Column="1">
+                <ScrollView>
+                    <Label Text="{Binding Synopsis}" FontSize="{DynamicResource FontSizeBody}" />
+                </ScrollView>
             </Border>
-            <Border Padding="10">
-                <Label Text="{Binding GameModeDisplay}"/>
-            </Border>
-            <Border Padding="10">
-                <Label Text="{Binding PlatformDisplay}"/>
-            </Border>
-        </VerticalStackLayout>
-        <Border Grid.Row="3" Grid.Column="1" >
-            <ScrollView>
-                <Label Text="{Binding Synopsis}" />
-            </ScrollView>
-        </Border>
-        <ImageButton x:Name="FavouriteButton" Source="{Binding Icon}"  Grid.Row="4" Grid.Column="0" Margin="10" Clicked="FavouriteButton_Clicked"/>
-        <Button x:Name="PriceButton" Text="{Binding Price, StringFormat='${0}'}" Grid.Row="4" Grid.Column="1" Margin="10" Clicked="PriceButton_Clicked" />
-    </Grid>
+            <FlexLayout Direction="Row" JustifyContent="SpaceBetween" x:Name="ButtonStack" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2">
+                <ImageButton x:Name="FavouriteButton" Source="{Binding Icon}" Margin="10" Clicked="FavouriteButton_Clicked"/>
+            <Button x:Name="PriceButton" Text="{Binding Price, StringFormat='${0:F2}'}" Margin="10" Padding="8,4" Clicked="PriceButton_Clicked" />
+            </FlexLayout>
+        </Grid>
 </ContentPage>

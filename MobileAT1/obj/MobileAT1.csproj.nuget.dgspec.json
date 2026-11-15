@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MobileAT1.csproj": {}
+    "C:\\Users\\school\\source\\repos\\C sharp\\Mobile-AT1\\MobileAT1\\MobileAT1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MobileAT1.csproj": {
+    "C:\\Users\\school\\source\\repos\\C sharp\\Mobile-AT1\\MobileAT1\\MobileAT1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MobileAT1.csproj",
+        "projectUniqueName": "C:\\Users\\school\\source\\repos\\C sharp\\Mobile-AT1\\MobileAT1\\MobileAT1.csproj",
         "projectName": "MobileAT1",
-        "projectPath": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\MobileAT1.csproj",
+        "projectPath": "C:\\Users\\school\\source\\repos\\C sharp\\Mobile-AT1\\MobileAT1\\MobileAT1.csproj",
         "packagesPath": "C:\\Users\\school\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\school\\source\\repos\\C sharp\\Semester 2\\MobileAT1\\MobileAT1\\obj\\",
+        "outputPath": "C:\\Users\\school\\source\\repos\\C sharp\\Mobile-AT1\\MobileAT1\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -40,12 +40,12 @@
             "projectReferences": {}
           },
           "net10.0-ios": {
-            "framework": "net10.0-ios26.5",
+            "framework": "net10.0-ios27.1",
             "targetAlias": "net10.0-ios",
             "projectReferences": {}
           },
           "net10.0-maccatalyst": {
-            "framework": "net10.0-maccatalyst26.5",
+            "framework": "net10.0-maccatalyst27.0",
             "targetAlias": "net10.0-maccatalyst",
             "projectReferences": {}
           },
@@ -72,13 +72,9 @@
           "framework": "net10.0-android36.0",
           "targetAlias": "net10.0-android",
           "dependencies": {
-            "AathifMahir.Maui.MauiIcons.Core": {
+            "CommunityToolkit.Maui": {
               "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "AathifMahir.Maui.MauiIcons.Material.Rounded": {
-              "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[16.0.0, )"
             },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
@@ -90,17 +86,21 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.110, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.12, )",
+              "version": "[10.0.14, )",
               "autoReferenced": true
             },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.4, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.11.285, )"
             }
           },
           "imports": [
@@ -125,7 +125,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -402,16 +402,12 @@
           }
         },
         "net10.0-ios": {
-          "framework": "net10.0-ios26.5",
+          "framework": "net10.0-ios27.1",
           "targetAlias": "net10.0-ios",
           "dependencies": {
-            "AathifMahir.Maui.MauiIcons.Core": {
+            "CommunityToolkit.Maui": {
               "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "AathifMahir.Maui.MauiIcons.Material.Rounded": {
-              "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[16.0.0, )"
             },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
@@ -423,17 +419,21 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.110, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.12, )",
+              "version": "[10.0.14, )",
               "autoReferenced": true
             },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.4, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.11.285, )"
             }
           },
           "imports": [
@@ -458,7 +458,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -735,16 +735,12 @@
           }
         },
         "net10.0-maccatalyst": {
-          "framework": "net10.0-maccatalyst26.5",
+          "framework": "net10.0-maccatalyst27.0",
           "targetAlias": "net10.0-maccatalyst",
           "dependencies": {
-            "AathifMahir.Maui.MauiIcons.Core": {
+            "CommunityToolkit.Maui": {
               "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "AathifMahir.Maui.MauiIcons.Material.Rounded": {
-              "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[16.0.0, )"
             },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
@@ -756,17 +752,21 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.110, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.12, )",
+              "version": "[10.0.14, )",
               "autoReferenced": true
             },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.4, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.11.285, )"
             }
           },
           "imports": [
@@ -792,7 +792,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -1072,13 +1072,9 @@
           "framework": "net10.0-windows10.0.19041",
           "targetAlias": "net10.0-windows10.0.19041.0",
           "dependencies": {
-            "AathifMahir.Maui.MauiIcons.Core": {
+            "CommunityToolkit.Maui": {
               "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "AathifMahir.Maui.MauiIcons.Material.Rounded": {
-              "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[16.0.0, )"
             },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
@@ -1090,11 +1086,15 @@
             },
             "Microsoft.Maui.Controls": {
               "target": "Package",
-              "version": "[10.0.20, )"
+              "version": "[10.0.110, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.4, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.11.285, )"
             }
           },
           "imports": [
@@ -1122,7 +1122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
