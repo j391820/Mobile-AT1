@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="MobileAT1/MobileAT1.csproj" />
+  <Project Path="MobileAT1UnitTests/MobileAT1UnitTests.csproj" Id="83069caa-7948-4d04-a862-c49917aeb811" />
+  <Project Path="TestAssistant1/TestAssistant1.csproj" Id="4c4f7aa9-a703-43eb-9aa0-3484abde0570" />
 </Solution>
